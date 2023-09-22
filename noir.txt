@@ -1,1 +1,3 @@
 local=/distinctrobin.com/
+local=/hdvietnam.com/
+local=/hdvietnam.org/
