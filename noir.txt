@@ -1,3 +1,4 @@
+local=/invl.io/
 local=/distinctrobin.com/
 local=/rottencycle.com/
 local=/hdvietnam.com/
