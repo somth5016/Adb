@@ -1,3 +1,4 @@
+local=/farawayinstallation.com/
 local=/invl.io/
 local=/distinctrobin.com/
 local=/rottencycle.com/
